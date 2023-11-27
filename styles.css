@@ -60,6 +60,12 @@
     background-image: url('image3.jpg');
     background-size: cover;
   }
+  .container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
 
 
   
