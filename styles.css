@@ -77,6 +77,12 @@
     border-radius: 10px;
     background-color: #a15d1d98;
   }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
 
 
 
