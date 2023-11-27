@@ -24,7 +24,7 @@
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    padding: 20px;
+    padding: 40px;
     background-image: url('galaxy.jpeg');
     
 
@@ -34,7 +34,7 @@
     flex: 1 1 300px;
     background-color: #ea6324;
     border: 1px solid #ffffff;
-    margin: 40px;
+    margin: 60px;
     padding: 20px;
   }
   
