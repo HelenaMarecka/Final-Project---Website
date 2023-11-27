@@ -25,6 +25,9 @@
     align-items: center;
     flex-wrap: wrap;
     padding: 20px;
+    background-image: url('galaxy.jpeg');
+    
+
   }
   
   .flex-item {
@@ -57,4 +60,6 @@
     background-image: url('image3.jpg');
     background-size: cover;
   }
+
+
   
