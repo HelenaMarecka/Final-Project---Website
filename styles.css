@@ -71,10 +71,10 @@
   }
   li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 10px;
-    margin: 0px 3px;
+    padding: 20px;
+    margin: 4px 3px;
     border:rgb(255, 255, 255);
-    border-radius: 10px;
+    border-radius: 30px;
     background-color: #a15d1d98;
   }
   .center {
@@ -83,6 +83,36 @@
     margin-right: auto;
     width: 90%;
   }
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  text-align:center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 5px;
+}
+button {
+  border: 1px solid orange;
+  border-radius: 5px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  padding: 10px;
+  margin: 2px;
+  transition-duration: .4s;
+}
+button:hover {
+background-color: orange;
+color: white;
+}
+
+button:active {
+  background-color: rgb(183, 34, 34);
+  box-shadow: 0 5px rgb(70, 4, 4);
+  transform:translateY(4px);
+}
+
 
 
 
