@@ -114,7 +114,7 @@ color: white;
 }
 
 button:active {
-  background-color: rgb(183, 34, 34);
+  background-color: rgb(179, 35, 35);
   box-shadow: 0 5px rgb(70, 4, 4);
   transform:translateY(4px);
 }
