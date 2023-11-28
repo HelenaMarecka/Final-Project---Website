@@ -112,7 +112,15 @@ button:active {
   box-shadow: 0 5px rgb(70, 4, 4);
   transform:translateY(4px);
 }
-
+footer {
+  background-color: #ea6324;
+  height: 30px;
+  text-align: center;
+  font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-small;
+  color:#fff;
+  padding: 10px 0px;
+}
 
 
 
