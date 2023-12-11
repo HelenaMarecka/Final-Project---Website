@@ -131,7 +131,22 @@ footer {
 font-family{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-   
+/*
+*
+Small animation of image hover.
+ * Based on: https://www.w3schools.com/css/css3_transitions.asp
+*/
+img {
+    -webkit-transition: .25s;
+       -moz-transition: .25s;
+        -ms-transition: .25s;
+         -o-transition: .25s;
+            transition: .25s;  
+
+            }
+img:hover {
+    scale: 1.1;
+}
    
 
 
